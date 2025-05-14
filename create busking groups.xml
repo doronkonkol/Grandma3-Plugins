@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.2.5.0">
+    <UserPlugin Name="Create Busking Groups" Guid="B1 06 EB C3 D7 48 10 02 D9 E3 0C 12 D6 2E EA 1B" Version="0.0.0.0">
+        <ComponentLua Name="Set Sub-Busking Groups" Guid="B1 06 EB C3 4C 49 10 02 6F D6 33 18 A5 4E 6E 18" FileName="set sub-busking groups.lua" />
+    </UserPlugin>
+</GMA3>

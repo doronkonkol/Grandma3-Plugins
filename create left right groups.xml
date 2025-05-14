@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.2.5.0">
+    <UserPlugin Name="Create Left Right Groups" Guid="B1 06 EB C3 9B 74 10 02 35 01 55 EF 8F 32 B2 E8" Version="0.0.0.0">
+        <ComponentLua Name="sym circle groups" Guid="B1 06 EB C3 AF 52 10 02 80 FE 6D 90 93 32 B2 E8" FileName="set sub-busking groups.lua" />
+    </UserPlugin>
+</GMA3>

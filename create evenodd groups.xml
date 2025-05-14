@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.2.5.0">
+    <UserPlugin Name="Create Even/Odd Groups" Guid="B3 06 EB C3 B0 3A 10 02 0F 1A 3E C0 F4 9D 23 25" Version="0.0.0.0">
+        <ComponentLua Guid="B3 06 EB C3 A8 31 10 02 EE 76 84 B1 21 D1 64 22">
+            <FileContent Size="1">
+                <Block Base64="bG9jYWwgZnVuY3Rpb24gbWFpbigpCglDbWQoImJsaW5kIG9uIikKCUNtZEluZGlyZWN0V2FpdCgiZml4dHVyZSAxIHRocnUiKQoJQ21kSW5kaXJlY3RXYWl0KCJzdG9yZSBncm91cCAnKkV2ZW4qJy9yIikKCUNtZEluZGlyZWN0V2FpdCgic3RvcmUgZ3JvdXAgJypPZGQqJy9yIikKCWZvciBpPTEsNyBkbwoJCUNtZEluZGlyZWN0V2FpdCgiY2xlYXJhbGwiKQoJCUNtZEluZGlyZWN0V2FpdCgiZ3JvdXAgIi4uaSkKCQlsb2NhbCBncmlkTWluVmFsdWUsIGdyaWRNYXhWYWx1ZSA9IFNlbGVjdGlvbkNvbXBvbmVudFgoKQoJCWxvY2FsIGdyaWRTaXplPWdyaWRNYXhWYWx1ZS1ncmlkTWluVmFsdWUrMQoJCWZvciBqPTEsZ3JpZFNpemUgZG8KCQkJQ21kSW5kaXJlY3RXYWl0KCJuZXh0IikKCQkJaWYgaiUyPT0wIHRoZW4gQ21kSW5kaXJlY3RXYWl0KCJzdG9yZSBncm91cCAnR3JvdXAgIi4uaS4uIiBFdmVuJyAvbWVyZ2UiKQoJCQllbHNlIENtZEluZGlyZWN0V2FpdCgic3RvcmUgZ3JvdXAgJ0dyb3VwICIuLmkuLiIgT2RkJyAvbWVyZ2UiKSBlbmQKCQllbmQKCQkKCWVuZAoJQ21kSW5kaXJlY3RXYWl0KCJjbGVhcmFsbCIpCglDbWQoIkJsaW5kIE9mZiIpCmVuZApyZXR1cm4gbWFpbg==" />
+            </FileContent>
+        </ComponentLua>
+    </UserPlugin>
+</GMA3>
